@@ -4,6 +4,10 @@ Proyecto de Análisis de Datos de Super Tienda Global
 
 Este proyecto tiene como objetivo realizar un análisis exhaustivo y dinámico de los datos proporcionados por la empresa "Super Tienda Global", utilizando herramientas como Google Sheets para la limpieza y preparación de datos, así como funciones de análisis dinámico y la creación de un Dashboard Interactivo
 
+<div align="center">
+  <img src="Imagenes/Portada.jpg" alt="Portada" style="max-width: 100%; height: auto;">
+</div>
+
 1° Avance: Conociendo y Preparando los Datasets:
 
 En el primer avance, se trabajó en la importación y limpieza de los datos provenientes de los archivos Master Global Super Store y Products Global Super Store. Esta fase consistió en ordenar y validar los datos, identificar valores faltantes o erróneos, y asignarles el formato adecuado. Además, se documentaron las variables y se generaron nuevas columnas cuando fue necesario.
@@ -17,6 +21,11 @@ En el segundo avance, el análisis se enfocó en la creación de métricas y el 
 En el tercer avance, se realizó un análisis estadístico y se crearon gráficos dinámicos para visualizar de manera clara los datos clave. Los gráficos incluyeron ventas por categorías, mercados, regiones y otros, y se diseñó un Dashboard interactivo con segmentadores para una navegación eficiente. El objetivo era proporcionar una herramienta visual que facilitara la interpretación de los datos y soportara la toma de decisiones estratégicas de la empresa.
 
 En resumen, el proyecto buscó transformar los datos en información útil mediante un proceso de limpieza, análisis dinámico y visualización interactiva, con el fin de mejorar la toma de decisiones y ofrecer una comprensión más profunda del comportamiento del negocio.
+
+<div align="center">
+  <img src="Imagenes/Hoja1.jpg" alt="Portada" style="max-width: 100%; height: auto;">
+</div>
+
 
 Requisitos Técnicos
 Herramientas Utilizadas:
