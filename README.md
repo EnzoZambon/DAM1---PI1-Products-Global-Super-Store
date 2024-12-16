@@ -1,4 +1,4 @@
-DAM1-PI1-Products-Global-Super-Store
+# Products-Global-Super-Store
 
 Proyecto de Análisis de Datos de Super Tienda Global
 
