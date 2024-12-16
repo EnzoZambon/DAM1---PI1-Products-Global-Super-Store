@@ -1,3 +1,5 @@
+DAM1-PI1-Products-Global-Super-Store
+
 Proyecto de Análisis de Datos de Super Tienda Global
 
 Este proyecto tiene como objetivo realizar un análisis exhaustivo y dinámico de los datos proporcionados por la empresa "Super Tienda Global", utilizando herramientas como Google Sheets para la limpieza y preparación de datos, así como funciones de análisis dinámico y la creación de un Dashboard Interactivo
